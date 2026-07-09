@@ -96,7 +96,6 @@
 
 <p align="center">
   📧 <a href="mailto:bhavyasreegaddam3@gmail.com">bhavyasreegaddam3@gmail.com</a> &nbsp;|&nbsp;
-  📱 +91 7286851770 &nbsp;|&nbsp;
   📍 Madanapalle, Andhra Pradesh
 </p>
 
